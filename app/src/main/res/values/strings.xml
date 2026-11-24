@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Nebula Pop</string>
+    <string name="tagline">Aim. Ricochet. Chain the Cosmos.</string>
+
+    <string name="home_play_sector">Play Sector %1$d</string>
+    <string name="home_sector_map">Sector Map</string>
+    <string name="home_endless_arcade">Endless Arcade</string>
+    <string name="home_stars_label">STARS</string>
+    <string name="home_best_score_label">BEST</string>
+    <string name="home_sectors_label">SECTORS</string>
+
+    <string name="setting_sound">Sound</string>
+    <string name="setting_haptics">Haptics</string>
+    <string name="setting_colorblind">Symbols</string>
+
+    <string name="map_title">Cosmic Sectors</string>
+    <string name="map_subtitle">20 handcrafted puzzle stages</string>
+
+    <string name="hud_sector_label">SECTOR %1$d</string>
+    <string name="hud_endless_label">ENDLESS</string>
+    <string name="hud_score_label">SCORE</string>
+    <string name="hud_moves_label">MOVES</string>
+    <string name="hud_drop_in_label">DROP IN</string>
+    <string name="hud_combo_badge">COMBO x%1$d</string>
+    <string name="hud_fireball_ready">FIREBALL READY!</string>
+
+    <string name="booster_bomb">Bomb</string>
+    <string name="booster_lightning">Bolt</string>
+    <string name="booster_wild">Wild</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_resume">Resume</string>
+    <string name="pause_restart">Restart</string>
+    <string name="pause_exit">Exit to Hub</string>
+
+    <string name="game_over_title">GAME OVER</string>
+    <string name="game_over_reason_moves">Out of moves!</string>
+    <string name="game_over_reason_danger">Bubbles crossed the danger line!</string>
+    <string name="final_score_label">FINAL SCORE</string>
+    <string name="new_best_badge">NEW BEST SCORE!</string>
+    <string name="play_again_button">PLAY AGAIN</string>
+
+    <string name="sector_cleared_title">SECTOR CLEARED!</string>
+    <string name="endless_over_title">RUN COMPLETE</string>
+    <string name="moves_bonus_label">Moves Bonus: +%1$d</string>
+    <string name="booster_reward_label">+1 Booster Earned!</string>
+    <string name="next_sector_button">NEXT SECTOR</string>
+    <string name="sector_map_button">Sector Map</string>
+
+    <string name="cd_hero_banner">Nebula Pop cosmic bubble launcher illustration</string>
+    <string name="cd_game_canvas">Nebula Pop playfield. Drag to aim with ricochet laser sight and release to shoot.</string>
+    <string name="cd_swap_bubble">Swap active and next bubble</string>
+    <string name="cd_pause_game">Pause game</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_victory_star">Earned star</string>
+    <string name="cd_locked_sector">Locked sector</string>
+</resources>

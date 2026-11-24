@@ -1,0 +1,6 @@
+{
+  "name": "Nebula Pop",
+  "description": "Cosmic arcade bubble puzzle game with ricochet aiming, power-up orbs, handcrafted sectors, and endless survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
